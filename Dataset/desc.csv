@@ -50,10 +50,11 @@ BsmtHalfBath,Basement half bathrooms
 FullBath,Full bathrooms above grade
 HalfBath,Half baths above grade
 Bedroom,Bedrooms above grade (does NOT include basement bedrooms)
-Kitchen,Kitchens above grade
+KitchenAbvGr,Kitchens above grade
 KitchenQual,Kitchen quality
 TotRmsAbvGrd,Total rooms above grade (does not include bathrooms)
 Functional,Home functionality (Assume typical unless deductions are warranted)
+BedroomAbvGr,Bedrooms above grade (does NOT include basement bedrooms)
 Fireplaces,Number of fireplaces
 FireplaceQu,Fireplace quality
 GarageType,Garage location
